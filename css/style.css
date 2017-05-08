@@ -1,0 +1,18 @@
+#city{
+	width:40%;
+	font-weight: bold;
+}
+body{
+	background: url(http://1.bp.blogspot.com/_HOCuXB2IC34/TK9HznolbiI/AAAAAAAAGnI/WZZ8KLO93rQ/s1600/13+%28www.cute-pictures.blogspot.com%29.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:Black;
+}
+h1{
+	text-align: center;
+	color:Black;
+}
+#result{
+	font-weight: bold;
+	font-family: verdana;
+}
